@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://ananthvishnu.github.io/](https://ananthvishnu.github.io/)
+- 👨‍💻 My portfolio [https://ananthvishnu.github.io/](https://ananthvishnu.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@ananthvishnu](https://medium.com/@ananthvishnu)
 
